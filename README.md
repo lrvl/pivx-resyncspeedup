@@ -26,3 +26,5 @@ Instructions
    watch -n 10 'for i in $(~/pivx-resyncspeedup.py); do echo $i; sudo ip route add blackhole $i; done'
    ```
 4. Enjoy higher bandwidth, see your Network Monitor window under Tools.
+
+5. Donate to: DSfLXa6uLGb1M6LsbHQfDu2PRnzALoqox4  Thanks!
